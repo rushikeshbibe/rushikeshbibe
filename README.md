@@ -23,12 +23,11 @@
 #### Database & SSMS
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL (Sakila Dolphin)" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" width="48" title="SSMS" />
 </p>
 
 #### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,gitbash" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
 </p>
 
 ---
