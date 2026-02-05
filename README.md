@@ -22,14 +22,13 @@
 
 #### Database & SSMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL (Sakila Dolphin)" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" width="48" title="SSMS" />
 </p>
 
 #### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
-  <img src="https://img.icons8.com/color/48/git-bash.png" title="Git Bash"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,gitbash" />
 </p>
 
 ---
