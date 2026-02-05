@@ -20,10 +20,14 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap,jquery" />
 </p>
 
-#### Database & SSMS
+#### Database
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="52" title="MySQL Workbench" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL (Sakila Dolphin)" />
+  <!-- MySQL Workbench -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL Workbench" />
+
+  <!-- SQL Server Management Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server Management Studio (SSMS)" />
 </p>
 
 #### Tools
