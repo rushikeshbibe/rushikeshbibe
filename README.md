@@ -15,22 +15,21 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**
+#### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap" />
+</p>
 
-- C# | ASP.NET MVC | ASP.NET Core  
-- Web API | Entity Framework | LINQ  
-- JavaScript | Angular | jQuery  
-- HTML | CSS | Bootstrap
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+</p>
 
-**Database**
-
-- SQL Server | MySQL
-
-**Tools**
-
-- Visual Studio | VS Code  
-- Git & GitHub  
-- Postman
+#### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+</p>
 
 ---
 
