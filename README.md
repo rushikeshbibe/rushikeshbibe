@@ -1,8 +1,8 @@
 <!-- Banner Section -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="" alt="Rushikesh Bibe - Full Stack .NET Engineer" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Rushikesh Bibe</h1>
 
@@ -27,7 +27,7 @@ I am a **Full-Stack .NET Developer** with **2.5+ years of hands-on experience** 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/khujrat-shaikh-8823a5203/](https://www.linkedin.com/in/biberushikesh/)" target="_blank">
+<a href="https://www.linkedin.com/in/biberushikesh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:rushikeshbibe1355@gmail.com">
