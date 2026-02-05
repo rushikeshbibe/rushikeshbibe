@@ -1,26 +1,20 @@
-<!-- Banner Section -->
-
-<!-- <p align="center">
-  <img src="" alt="Rushikesh Bibe - Full Stack .NET Engineer" width="100%" />
-</p> -->
-
 <h1 align="center">Hi 👋, I'm Rushikesh Bibe</h1>
 
 <h3 align="center">
 🚀 Full-Stack .NET Software Engineer  
-| Building Scalable Web Solutions | Clean Code Advocate | India 🇮🇳
+| ASP.NET MVC | C# | REST APIs | SQL | Angular | India 🇮🇳
 </h3>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a **Full-Stack .NET Developer** with **2.5+ years of hands-on experience** in designing, developing, and maintaining secure and high-performance web applications. Passionate about writing clean, maintainable code and solving real-world business problems through technology.
+I am a **Full-Stack .NET Developer** with **2.5+ years of experience** in building secure, scalable, and high-performance web applications. I focus on clean architecture, maintainable code, and delivering business-driven solutions.
 
-* 💼 **Currently:** Software Engineer @ *Net Protector Antivirus*
-* 🧠 **Core Strengths:** ASP.NET MVC , C#, REST APIs
-* ⚙ **Focus Areas:** Performance, Security, Scalable Architecture
-* 📧 **Reach me:** [rushikeshbibe1355@gmail.com](mailto:rushikeshbibe1355@gmail.com)
+- 💼 **Currently:** Software Engineer @ *Net Protector Antivirus*
+- 🧠 **Expertise:** ASP.NET MVC, C#, Web APIs, SQL Server
+- ⚙ **Interests:** System Design, Performance Optimization, Secure Coding
+- 📧 **Email:** [rushikeshbibe1355@gmail.com](mailto:rushikeshbibe1355@gmail.com)
 
 ---
 
@@ -37,83 +31,54 @@ I am a **Full-Stack .NET Developer** with **2.5+ years of hands-on experience** 
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
-### 💻 Backend
+### Backend
+- .NET Core / .NET Framework  
+- C# | ASP.NET MVC | Web API  
+- Entity Framework | LINQ  
+- Authentication & Authorization  
 
-* .NET Core / .NET Framework
-* C# | ASP.NET MVC | Web API
-* Entity Framework | LINQ
-* Authentication & Authorization
+### Frontend
+- Angular | JavaScript | TypeScript  
+- HTML5 | CSS3 | Bootstrap  
+- Responsive UI  
 
-### 🌐 Frontend
+### Database
+- SQL Server | MySQL  
+- Stored Procedures | Query Optimization  
 
-* Angular | JavaScript | TypeScript
-* HTML5 | CSS3 | Bootstrap
-* Responsive UI Development
-
-### 🗄 Database
-
-* MySQL | SQL Server
-* Stored Procedures | Optimization
-
-### ⚙ Tools
-
-* Git & GitHub
-* Postman
-* Visual Studio
-* IIS Deployment
-
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
+### Tools
+- Git & GitHub  
+- Postman  
+- Visual Studio  
+- IIS Deployment  
 
 ---
 
 ## 💼 What I Deliver
 
-✔ End-to-end web application development
-✔ Secure authentication & role management
-✔ API development & integration
-✔ Performance optimization
-✔ Clean architecture & maintainable code
+✔ End-to-end web application development  
+✔ Secure authentication & role management  
+✔ REST API design & integration  
+✔ Performance tuning & debugging  
+✔ Clean and scalable architecture  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csjob&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csjob&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=csjob&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=csjob&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+### ✨ Professional Motto
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=csjob&theme=radical&margin-w=15"/>
-</p>
+> “Build solutions — not just features.”
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csjob&layout=compact&theme=radical"/>
-</p>
-
----
-
-### ✨ Motto
-
-> “Code that works is good. Code that works and is clean is professional.”
-
----
-
-💡 *Feel free to explore my repositories and connect with me for collaboration or opportunities!*
+💡 *Open to .NET opportunities, collaborations, and technical discussions.*
