@@ -28,13 +28,10 @@
 
 #### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,bash" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+  <img src="https://img.icons8.com/color/48/git-bash.png" title="Git Bash"/>
 </p>
 
-#### Concepts
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ajax" />
-</p>
 ---
 
 ### 🤝 Connect With Me
