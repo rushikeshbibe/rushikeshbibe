@@ -18,17 +18,19 @@
 #### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap" />
+  <img src="https://img.icons8.com/color/48/ajax.png" title="AJAX"/>
 </p>
 
 #### Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server / SSMS"/>
 </p>
 
 #### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+  <img src="https://img.icons8.com/color/48/git-bash.png" title="Git Bash"/>
 </p>
 
 ---
