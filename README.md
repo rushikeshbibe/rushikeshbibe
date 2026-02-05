@@ -17,22 +17,24 @@
 
 #### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap" />
-  <img src="https://img.icons8.com/color/48/ajax.png" title="AJAX"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap,jquery" />
 </p>
 
-#### Database
+#### Database & SSMS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server / SSMS"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 #### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
-  <img src="https://img.icons8.com/color/48/git-bash.png" title="Git Bash"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,bash" />
 </p>
 
+#### Concepts
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ajax" />
+</p>
 ---
 
 ### 🤝 Connect With Me
