@@ -25,9 +25,6 @@
 <p align="left">
   <!-- MySQL Workbench -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL Workbench" />
-
-  <!-- SSMS 20 style icon -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="50" title="SQL Server Management Studio 20" />
 </p>
 
 #### Tools
