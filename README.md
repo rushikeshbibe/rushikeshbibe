@@ -22,6 +22,7 @@
 
 #### Database & SSMS
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="52" title="MySQL Workbench" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL (Sakila Dolphin)" />
 </p>
 
