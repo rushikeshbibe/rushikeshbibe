@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 💼 I am a passionate **.NET Developer** building scalable web applications  
-- 🌱 Currently learning **ASP.NET Core, Clean Architecture, Angular**  
+- 🌱 Currently learning **ASP.NET Core, Angular**  
 - 💬 Ask me about **C#, ASP.NET MVC, Web API, SQL Server, LINQ, EntityFramework**  
 - 📫 Reach me at: **rushikeshbibe1355@gmail.com**  
 - ⚡ Fun fact: I love to learn new Skills & tech communities 🚴‍♂️
