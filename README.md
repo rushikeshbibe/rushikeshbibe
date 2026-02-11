@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">Full Stack .NET Developer | ASP.NET MVC | Web API | SQL | Angular</h3>
+<h3 align="center">Full Stack .NET Developer</h3>
 
 ---
 
